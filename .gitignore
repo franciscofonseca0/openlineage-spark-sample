@@ -1,0 +1,8 @@
+.venv
+build*
+minio*
+logs*
+notebooks/.ipynb_checkpoints
+notebooks/build*
+__pycache__*
+.env
